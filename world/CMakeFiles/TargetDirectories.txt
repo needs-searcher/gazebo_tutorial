@@ -1,0 +1,3 @@
+/home/workspace/project1/world/CMakeFiles/edit_cache.dir
+/home/workspace/project1/world/CMakeFiles/welcome_message.dir
+/home/workspace/project1/world/CMakeFiles/rebuild_cache.dir
